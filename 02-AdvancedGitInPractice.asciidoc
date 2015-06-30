@@ -4,4 +4,4 @@ Joke rejected
 
 Merging branches
 
-EXTRA EXTRA
+EXTRA
